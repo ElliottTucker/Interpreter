@@ -1,0 +1,9 @@
+﻿let x = 5 + 3
+let name = "elliott"
+// this is a comment
+if x >= 4 {
+    print x
+}
+while x != 10 {
+    let x = x + 1
+}

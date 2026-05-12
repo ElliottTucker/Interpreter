@@ -22,10 +22,10 @@ namespace Interpreter
         False,
 
         //Arithmatic
-        Plus,
-        Minus,
-        Star,
-        Slash,
+        Plus, //+
+        Minus, //-
+        Star, //*
+        Slash, // /
 
         //Symbols
         Assign, //=
